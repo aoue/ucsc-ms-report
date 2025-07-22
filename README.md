@@ -1,3 +1,7 @@
 # ucsc-ms-report
 
-<object data="ucsc-ms-report.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="https://github.com/aoue/ucsc-ms-report/blob/main/ucsc-ms-report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/aoue/ucsc-ms-report/blob/main/ucsc-ms-report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/aoue/ucsc-ms-report/blob/main/ucsc-ms-report.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
