@@ -1,6 +1,6 @@
 # ucsc-ms-report
 
-[Report PDF](ucsc-ms-report)
+[Report PDF](ucsc-ms-report.pdf)
 
 ![Page 1](img/page1.jpg)
 ![Page 2](img/page2.jpg)
