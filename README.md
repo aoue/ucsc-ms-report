@@ -1,9 +1,11 @@
 # ucsc-ms-report
 
-<object>https://github.com/aoue/ucsc-ms-report/blob/main/ucsc-ms-report.pdf</object>
+[Report PDF](ucsc-ms-report)
 
-https://drive.google.com/file/d/1GCpHij9vxM9J9yBxAhPY4cblHZ1sKGWI/view?usp=sharing
-
-https://docs.google.com/document/d/1OMMRZmrxrhhRtGfz1P4KFU34Al6_UkITfEBfnTVw0To/edit?tab=t.0 
-
-https://github.com/aoue/ucsc-ms-report/blob/main/ucsc-ms-report.pdf
+![Page 1](img/page1.jpg)
+![Page 2](img/page2.jpg)
+![Page 3](img/page3.jpg)
+![Page 4](img/page4.jpg)
+![Page 5](img/page5.jpg)
+![Page 6](img/page6.jpg)
+![Page 7](img/page7.jpg)
